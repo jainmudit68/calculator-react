@@ -1,0 +1,39 @@
+body{
+    margin: auto;
+    margin-top: 10%;
+    background-image: url('c:/project/calculator/public/bg.jpg');
+    background-size: cover;
+}
+.frame{
+    background-color: #3C2A21;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+
+}
+.buttons {
+    display: flex;
+    flex-wrap: wrap;
+    height: 200px;
+    width: 250px;
+    margin: auto;
+
+}
+
+.dispScreen{
+    height: 50px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+
+}
+.tag{
+    font-size: 25px;
+    font-family:'Lucida Sans',Verdana;
+    align-self:flex-end;
+    text-align: right;
+    width: 100px;
+    font-style: oblique;
+}
