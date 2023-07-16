@@ -1,7 +1,7 @@
 body{
     margin: auto;
     margin-top: 10%;
-    background-image: url('c:/project/calculator/public/bg.jpg');
+    background-image: url('c:/project/calculator/calculator-react/public/bg.jpg');
     background-size: cover;
 }
 .frame{
@@ -30,7 +30,8 @@ body{
 
 }
 .tag{
-    font-size: 25px;
+    font-size: 30px;
+    font-weight:900;
     font-family:'Lucida Sans',Verdana;
     align-self:flex-end;
     text-align: right;
